@@ -3,6 +3,6 @@
 
 The code demonstrates this empirical law by counting the occurence of words in all Sherlock Holmes' stories and plotting the frequencies on a log-log scale. A linear relationship can be observed, suggesting the power law holds for these data:
 
-
+![My Image](sherlock_plot.png)
 
 The stories are available for download on [Kaggle](https://www.kaggle.com/datasets/idevji1/sherlock-holmes-stories).
